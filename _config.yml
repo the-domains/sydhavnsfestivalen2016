@@ -1,7 +1,7 @@
 name: Sydhavnsfestivalen2016
 favicon: null
-layout_spectrum: 0.4089822170790285
-typography_spectrum: 0.09649532195180655
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6707780773285776
-  lightness: 0.12444836390204728
-  saturation: 0.755262958817184
-  rhythmicContrast: 0.17411989718675613
+    - '#ffffff'
+    - '#86a898'
+    - '#001f4d'
+    - '#61081a'
+    - '#f6fd4a'
+  brandStrength: 0.6875
+  lightness: 0.25
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
