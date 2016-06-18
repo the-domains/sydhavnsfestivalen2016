@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SYDHAVNSFESTIVALEN 2016]]></title>
+        <description><![CDATA[SYDHAVNSFESTIVALEN 2016]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 18 Jun 2016 11:20:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Gun-A-Bees, K&oslash;benhavn. 199 likes &middot; 13 talking about this. GUN-A-BEES er et band der bare spiller for sjov. Sydhavnsfestivalen p&aring; Karens Minde i Sydhavnen..." src="https://scontent.xx.fbcdn.net/v/t1.0-9/10906471_764559983619164_8279026761313464832_n.jpg?oh=0f76d5ee06a8d62c4c4c15ecb2f19a27&oe=57CDEE29">]]></description>
+            <link>https://www.facebook.com/gunabees/photos/gm.252836658427869/1070127499729076/?type=3</link>
+            <guid isPermaLink="false">0b68e7d8-8e46-4c25-8911-3786990ac37a</guid>
+            <pubDate>Sat, 18 Jun 2016 11:20:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
