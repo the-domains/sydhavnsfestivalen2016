@@ -4,8 +4,15 @@
         <description><![CDATA[SYDHAVNSFESTIVALEN 2016]]></description>
         <link>https://thegrid.ai/sydhavnsfestivalen2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 22:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 22:39:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnsfestivalen2016/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b1a4257-101c-4834-a5f0-d952d18c7ec7.jpg">]]></description>
+            <link>https://thegrid.ai/sydhavnsfestivalen2016/3064dc22-595d-4aa9-8f08-67769715591e/index.html</link>
+            <guid isPermaLink="false">3064dc22-595d-4aa9-8f08-67769715591e</guid>
+            <pubDate>Mon, 27 Jun 2016 22:39:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c77757f-cd40-4189-bf26-3425735bffbe.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/sydhavnsfestivalen2016/69e8fea2-33f5-4ba9-a08c-cf705bdb8ca3/index.html</link>
             <guid isPermaLink="false">69e8fea2-33f5-4ba9-a08c-cf705bdb8ca3</guid>
             <pubDate>Mon, 27 Jun 2016 22:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i611.photobucket.com/albums/tt191/Leda_Grace_Rasmussen/2016-05-28%2018.25.22_zps51armyei.jpg?1467065251246&1467065254243&1467065260944&1467065270891">]]></description>
-            <link>http://s611.photobucket.com/</link>
-            <guid isPermaLink="false">09252386-e252-4447-a4e2-51ec9feabdf2</guid>
-            <pubDate>Mon, 27 Jun 2016 22:21:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
