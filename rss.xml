@@ -4,15 +4,8 @@
         <description><![CDATA[SYDHAVNSFESTIVALEN 2016]]></description>
         <link>https://thegrid.ai/sydhavnsfestivalen2016/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 02:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 02:08:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sydhavnsfestivalen2016/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50ec20d8-51fe-4fec-b101-3a11764ea4f7.jpg">]]></description>
-            <link>https://thegrid.ai/sydhavnsfestivalen2016/90546f1a-7eda-41d1-8345-1081ea5f3026/index.html</link>
-            <guid isPermaLink="false">90546f1a-7eda-41d1-8345-1081ea5f3026</guid>
-            <pubDate>Tue, 28 Jun 2016 02:08:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5bf2991-be11-4bd7-9c78-3a8e6a652b62.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/sydhavnsfestivalen2016/0befeff1-fde6-4309-8261-086c913ee5b3/index.html</link>
             <guid isPermaLink="false">0befeff1-fde6-4309-8261-086c913ee5b3</guid>
             <pubDate>Tue, 28 Jun 2016 02:08:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbe9de15-e21a-4964-ac33-091a872f3be5.jpg">]]></description>
+            <link>https://thegrid.ai/sydhavnsfestivalen2016/05533c1b-36f0-47bb-9d06-8d766fc7672a/index.html</link>
+            <guid isPermaLink="false">05533c1b-36f0-47bb-9d06-8d766fc7672a</guid>
+            <pubDate>Tue, 28 Jun 2016 02:08:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
